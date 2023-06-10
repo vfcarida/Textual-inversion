@@ -6,7 +6,7 @@ Gravaçao do evento:
 https://www.youtube.com/watch?v=FBwWXFaNYug&ab_channel=GoogleCloudLATAM
 
 Arquitetura da Solução:
-![alt text](https://drive.google.com/file/d/1XfjJCiSE-qXGXPHGOGjQg88hk-g2Atev/view?usp=sharing)
+![alt text](https://drive.google.com/file/d/1XfjJCiSE-qXGXPHGOGjQg88hk-g2Atev/view)
 
 
 Referencias:
